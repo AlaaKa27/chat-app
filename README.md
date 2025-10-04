@@ -15,3 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# chat-app" 
+![image](https://github.com/AlaaKa27/chat-app/blob/main/1dcc27c8-92c1-4d3f-89ce-e0a200b97829.jpg)
