@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176203389940",
+    "project_id": "chatzoo-app",
+    "storage_bucket": "chatzoo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176203389940:android:e33f2f631e33895c6737a1",
+        "android_client_info": {
+          "package_name": "com.example.chatzoo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDmQrucbIX7vWFGUgDA6qqc79viiTeJVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176203389940:android:aa3bbfb9d15897376737a1",
+        "android_client_info": {
+          "package_name": "ka.ALAAk.chatzoo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDmQrucbIX7vWFGUgDA6qqc79viiTeJVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
